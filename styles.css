@@ -43,3 +43,7 @@ button {
   height: 2em;
   border-radius: 1em;
 }
+
+#input_width:invalid, #input_height:invalid {
+  color:red;
+}
